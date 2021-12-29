@@ -354,6 +354,13 @@ Or to remove all above run:
 make cleanup
 ```
 
+__Keep version in sync.__
+
+```bash
+https://www.nicholasnadeau.com/post/2020/8/one-version-to-rule-them-all-keeping-your-python-package-version-number-in-sync-with-git-and-poetry/
+```
+
+
 </p>
 </details>
 
